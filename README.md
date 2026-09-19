@@ -3,8 +3,6 @@
 
 engineer who likes systems you can inspect, interrupt, and prove.
 
-<img width="375" height="375" alt="image" src="https://strangestloop.io/images/homepage/loop.gif" />
-
 live exhibit: [colak.sh](https://colak.sh)
 
 ## now
