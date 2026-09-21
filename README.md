@@ -11,7 +11,8 @@ live exhibit: [colak.sh](https://colak.sh)
 
 a village of persistent engineering actors so the operator is not the message bus.
 each lead owns a board, a cockpit pane, and a mailbox.
-there is no actor-village github dump; the public artifact is the exhibit.
+
+<img width="1623" height="1049" alt="image" src="https://github.com/user-attachments/assets/f66d1872-0436-4789-a7db-741b7ae91e7c" />
 
 speech-core still closes immutable turns.
 talker is the spoken attention consumer.
