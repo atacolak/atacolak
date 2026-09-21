@@ -3,6 +3,8 @@
 
 engineer who likes systems you can inspect, interrupt, and prove.
 
+currently: continuously rediscovering multi-agent coordination and delegation problems [Jeffrey](https://github.com/Dicklesworthstone) already solved weeks or months ago, then rebuilding my own answers to them because i have a chronic inability to look at a solved problem without thinking "yeah, but what if i came at it from *this* angle?"
+
 live exhibit: [colak.sh](https://colak.sh)
 
 ## now
